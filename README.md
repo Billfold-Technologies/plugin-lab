@@ -15,7 +15,7 @@ bft-plugin.lab is the repository for Billfold Technology schematics based busine
 |  Access token: | OAuth |
 |  Nucleus class: | plugin.lab |
 
-The nucleus class establishes and sets the CLI. The motherboard hosts seven class series and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
+The nucleus class establishes and sets the CLI. The Personal Business Machines (PBM) motherboard hosts seven class series daughterboards and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
 | --- | --- |
 |- [schematic.lab](https://github.com/Billfold-Technologies/schematic-lab) |The repository for schematic calibration.
